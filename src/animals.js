@@ -19,5 +19,12 @@ export const animals = [
     sound: "Meow",
     image:
       "https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    id: 4,
+    name: "Pig",
+    sound: "Oink",
+    image:
+      "https://images.unsplash.com/photo-1516467508483-a7212febe31a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
   }
 ];
